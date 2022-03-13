@@ -27,7 +27,7 @@ RxMoya를 사용해서 네트워킹을 비동기로 처리하도록 했습니다
 
 - 카카오톡 메시지 UI 구현
 
-  - [UICollectionViewLayout를 커스터마이징해서 사용](<(https://github.com/SDC-OASIS/CocoTalk-iOS/tree/master/CocoTalk/CocoTalk/Scenes/ChatRoom)>)
+  - [UICollectionViewLayout를 커스터마이징해서 사용](https://github.com/SDC-OASIS/CocoTalk-iOS/tree/master/CocoTalk/CocoTalk/Scenes/ChatRoom)
   - [MessageCollectionViewCell 구현](https://github.com/SDC-OASIS/CocoTalk-iOS/blob/master/CocoTalk/CocoTalk/Components/Cells/MessageCell/MessageCollectionViewCell.swift)
 
 - 동시 로그인 방지 기능
